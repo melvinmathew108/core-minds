@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 75543b12af843a28ac395759d6661ebf6ea07c9e robin.smartipz <robin.smartipz@gmail.com> 1603350141 +0530	commit (initial): initial commit
+75543b12af843a28ac395759d6661ebf6ea07c9e dc2931b7282aa07926551c4f6a32b2db58e92806 robin.smartipz <robin.smartipz@gmail.com> 1603350210 +0530	pull --progress -v --no-rebase --allow-unrelated-histories origin master: Merge made by the 'recursive' strategy.
+dc2931b7282aa07926551c4f6a32b2db58e92806 88c75ecba275322fe8ba39ea4f7e2bfb84758f8b robin.smartipz <robin.smartipz@gmail.com> 1604480121 +0530	commit: update Api
+88c75ecba275322fe8ba39ea4f7e2bfb84758f8b 20b821acc67d52a65ab87161ad26ad882d55ef1e robin.smartipz <robin.smartipz@gmail.com> 1605175622 +0530	commit: updates
+20b821acc67d52a65ab87161ad26ad882d55ef1e a027dcb37e83afd8ec8edc40096cdb584efc17fc robin.smartipz <robin.smartipz@gmail.com> 1605179204 +0530	commit: activate deactivate buton workers
+a027dcb37e83afd8ec8edc40096cdb584efc17fc e0f4decc228d27d4bf8c81890d47f2f5b602d707 robin.smartipz <robin.smartipz@gmail.com> 1605181087 +0530	commit: worker edit fix place and district
+e0f4decc228d27d4bf8c81890d47f2f5b602d707 c044cdab3c40c497b73b70552b336b967ec3761a Melvin Mathew <71694894+melvinmathew108@users.noreply.github.com> 1703143492 +0530	commit: first commit
+c044cdab3c40c497b73b70552b336b967ec3761a 0000000000000000000000000000000000000000 Melvin Mathew <71694894+melvinmathew108@users.noreply.github.com> 1703143504 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 c044cdab3c40c497b73b70552b336b967ec3761a Melvin Mathew <71694894+melvinmathew108@users.noreply.github.com> 1703143504 +0530	Branch: renamed refs/heads/master to refs/heads/main
